@@ -1,6 +1,6 @@
 # Olá, Mundo!
- Primeiros Trabalhos Versionado
+ Desafio 2 - Hiring Coders
 
- Repositório criado em uma aula ao vivo!
+ Projeto de site 2. 
 
-Essa linha eu adicionei diretamente no site. 
+
